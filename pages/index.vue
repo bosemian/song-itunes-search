@@ -7,6 +7,7 @@
         type="text"
         placeholder="Enter Artist Name"
         v-model="search"
+        autofocus
         />
     </form>
   </div>
