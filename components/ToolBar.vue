@@ -13,6 +13,7 @@
 <script>
 export default {}
 </script>
+
 <style scoped>
 .title {
   text-decoration: none !important;
